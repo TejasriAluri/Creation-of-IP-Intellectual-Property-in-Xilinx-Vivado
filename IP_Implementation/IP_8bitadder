@@ -1,1 +1,11 @@
+# IP Creation for 8-Bit Adder
+## Main steps:
+--Write program for full adder
+--Run Synthesis
+--Run Implementation
+--Generate Bit Stream
+--Create IP
+--Cascade 8 IPs to create 8 bit adder.
+# Detailed Steps:
+1.Create new project as told in the previous project. Add sources and write the program for half adder in that source file
 
